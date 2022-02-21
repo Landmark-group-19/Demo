@@ -8,8 +8,12 @@ Benjamin
 Yves
 Patrick
 love
-faith 
-<<<<<<< HEAD
-=======
+faith
 
->>>>>>> 3886d08 (try to cherry pick)
+
+
+
+
+
+
+
