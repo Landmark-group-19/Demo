@@ -7,3 +7,8 @@ Nelly
 Benjamin
 Yves
 Patrick
+<<<<<<< HEAD
+=======
+love
+faith 
+>>>>>>> 8832f7c (faith added)
